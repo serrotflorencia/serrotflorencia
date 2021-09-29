@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @serrotflorencia
 - 👀 I’m interested in creating great digital platforms. 
 - 🌱 I’m currently learning a lot. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making the web better with a drive on sustainability via digital products. 
 - 📫 How to reach me: send me an email : serrotflorencia@gmail.com
 
 <!---
